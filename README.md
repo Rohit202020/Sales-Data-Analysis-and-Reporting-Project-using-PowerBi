@@ -16,12 +16,12 @@
 
 - DATASET DESCRIPTION :-
 The dataset used for this project includes:
-  -- Fields: State, Customer Name, Product Category, Sub-Category, Payment Mode, Amount, Profit, Quantity, and Date.
-  -- Metrics Analyzed:
-  -- Total Sales Amount: 438K
-  -- Total Profit: 37K
-  -- Total Quantity Sold: 5,615
-  -- Average Order Value (AOV): 121K
+  1) Fields: State, Customer Name, Product Category, Sub-Category, Payment Mode, Amount, Profit, Quantity, and Date.
+  2) Metrics Analyzed:
+  3) Total Sales Amount: 438K
+  4) Total Profit: 37K
+  5) Total Quantity Sold: 5,615
+  6) Average Order Value (AOV): 121K
   
 
 - TOOLS AND TECHNOLOGIES :-
