@@ -3,15 +3,17 @@
 ----------------------------------------------------------------------------------------------------
 
 ## PROBLEM STATEMENT :-
-    E-commerce platforms generate massive volumes of transactional data daily. Analyzing this data is essential to understanding sales trends, identifying profit drivers,        and    improving decision-making. This project aims to derive actionable insights from sales data to boost performance and identify areas for improvement.
+
+1) E-commerce platforms generate massive volumes of transactional data daily. Analyzing this data is essential to understanding sales trends, identifying profit drivers,        and    improving decision-making. This project aims to derive actionable insights from sales data to boost performance and identify areas for improvement.
 ----------------------------------------------------------------------------------------------------
 
 ## OBJECTIVE :-
-  The primary objective of this project is to analyze e-commerce sales data to:
-    1) Identify key sales trends across different regions, categories, and time periods.
-    2) Understand the profit contribution of various sub-categories.
-    3) Highlight customer purchasing behavior and payment preferences.
-    4) Recommend actionable strategies to maximize profit and customer satisfaction.
+  
+The primary objective of this project is to analyze e-commerce sales data to:
+1) Identify key sales trends across different regions, categories, and time periods.
+2) Understand the profit contribution of various sub-categories.
+3) Highlight customer purchasing behavior and payment preferences.
+4) Recommend actionable strategies to maximize profit and customer satisfaction.
 ------------------------------------------------------------------------------------------------------
 
 ## DATASET DESCRIPTION :-
