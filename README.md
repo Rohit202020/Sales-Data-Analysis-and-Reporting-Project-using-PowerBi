@@ -41,18 +41,18 @@ The dataset used for this project includes:
 ## ANALYSIS PERFORMED :-
  
 1) Regional Sales Performance:
-  -- Maharashtra contributed the highest sales.
-  -- Top-performing states were highlighted based on revenue.
+- Maharashtra contributed the highest sales.
+- Top-performing states were highlighted based on revenue.
 
 2) CATEGORY AND SUB-CATEGORY ANALYSIS:
-  -- Clothing accounted for 63% of total quantity sold.
-  -- Printers and Bookcases generated the highest profit.
+- Clothing accounted for 63% of total quantity sold.
+- Printers and Bookcases generated the highest profit.
 
 3) PAYMENT PREFERENCES:
-  -- Cash on Delivery (COD) was the most preferred payment mode (44%), followed by UPI (21%).
+- Cash on Delivery (COD) was the most preferred payment mode (44%), followed by UPI (21%).
 
 4) MONTHLY TRENDS:
-  -- January and February had the highest profits, whereas May witnessed losses.
+- January and February had the highest profits, whereas May witnessed losses.
 -------------------------------------------------------------------------------------------------------------
    
 ## INSIGHTS AND FINDINGS :-
@@ -65,10 +65,10 @@ The dataset used for this project includes:
 ## VISUALIZATIONS :-
   
 1) KEY VISUALIZATIONS INCLUDE:
-  -- Bar charts for state-wise sales and customer-wise revenue.
-  -- Pie charts for category and payment mode distribution.
-  -- Line charts for monthly profit trends.
-  -- Sub-category profit analysis using horizontal bars.
+- Bar charts for state-wise sales and customer-wise revenue.
+- Pie charts for category and payment mode distribution.
+- Line charts for monthly profit trends.
+- Sub-category profit analysis using horizontal bars.
 --------------------------------------------------------------------------------------------------------------
    
 ## CHALLENGES FACED :-
@@ -84,9 +84,9 @@ The dataset used for this project includes:
 ---------------------------------------------------------------------------------------------------------------
 
 ## CONCLUSION :-
-  -- The E-commerce Sales Analysis project successfully highlighted critical insights into sales performance, customer preferences, and profit-driving factors. Key findings 
-     show that Maharashtra and Madhya Pradesh are top-performing regions, while clothing is the most purchased category.
-  -- Printers and Bookcases emerged as the most profitable sub-categories, and Cash on Delivery remains the dominant payment method.
-  -- The analysis also revealed seasonal trends, with profits peaking in Q1 and declining in mid-year months like May.
-  -- These insights can guide strategic decision-making, enabling businesses to focus on high-performing regions, promote profitable products, and optimize operations during 
-     low-performing periods.
+- The E-commerce Sales Analysis project successfully highlighted critical insights into sales performance, customer preferences, and profit-driving factors. Key findings 
+  show that Maharashtra and Madhya Pradesh are top-performing regions, while clothing is the most purchased category.
+- Printers and Bookcases emerged as the most profitable sub-categories, and Cash on Delivery remains the dominant payment method.
+- The analysis also revealed seasonal trends, with profits peaking in Q1 and declining in mid-year months like May.
+- These insights can guide strategic decision-making, enabling businesses to focus on high-performing regions, promote profitable products, and optimize operations during 
+  low-performing periods.
