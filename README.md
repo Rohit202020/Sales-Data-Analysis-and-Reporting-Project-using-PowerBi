@@ -4,7 +4,7 @@
 
 ## PROBLEM STATEMENT :-
 
-1) E-commerce platforms generate massive volumes of transactional data daily. Analyzing this data is essential to understanding sales trends, identifying profit drivers,        and    improving decision-making. This project aims to derive actionable insights from sales data to boost performance and identify areas for improvement.
+- E-commerce platforms generate massive volumes of transactional data daily. Analyzing this data is essential to understanding sales trends, identifying profit drivers,        and    improving decision-making. This project aims to derive actionable insights from sales data to boost performance and identify areas for improvement.
 ----------------------------------------------------------------------------------------------------
 
 ## OBJECTIVE :-
