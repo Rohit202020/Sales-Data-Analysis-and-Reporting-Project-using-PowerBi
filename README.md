@@ -44,12 +44,15 @@ The dataset used for this project includes:
 - Maharashtra contributed the highest sales.
 - Top-performing states were highlighted based on revenue.
 
+
 2) CATEGORY AND SUB-CATEGORY ANALYSIS:
 - Clothing accounted for 63% of total quantity sold.
 - Printers and Bookcases generated the highest profit.
 
+
 3) PAYMENT PREFERENCES:
 - Cash on Delivery (COD) was the most preferred payment mode (44%), followed by UPI (21%).
+
 
 4) MONTHLY TRENDS:
 - January and February had the highest profits, whereas May witnessed losses.
